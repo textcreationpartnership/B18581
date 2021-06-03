@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of George Taylor, Esq; Marshal of the King's Bench. In relation to a clause added to the Bill, intitled, An Act for rgulating [sic] the abuses in prisons and pretended priviledged places.</title>
+            <author>Taylor, George, Marshal of the King's Bench.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18581</idno><idno type="EEBO-CITATION">99893581</idno>
+  <idno type="VID">189440</idno>
+  <idno type="EEBO-PROQUEST">2248562449</idno>
+  
+            <idno type="STC">Wing C915B</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1888.c.11[17]</idno>
+            <idno type="STC">ESTC T127899</idno>
+            <idno type="PROQUEST">ocm99893581</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99893581e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18581)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 189440)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C16:2[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of George Taylor, Esq; Marshal of the King's Bench. In relation to a clause added to the Bill, intitled, An Act for rgulating [sic] the abuses in prisons and pretended priviledged places.</title>
+                  <author>Taylor, George, Marshal of the King's Bench.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1701?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Apparently concerning the Bill of 20 February 1701 for regulating the prisons of the King's Bench. Wing dates this item 1700?</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Prisons --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="appeal">
+            <pb facs="tcp:189440:1"/>
+            <head>
+               <hi>The CASE of</hi> GEORGE TAYLOR, <hi>Esq; Marshal of the</hi> Kings Bench. <hi>In Relation to a Clause added to the Bill,</hi> Intitled, An Act for Rgulating the Abuses in Prisons and pretended Priviledged Places.</head>
+            <p>
+               <hi>VVIlliam Lenthal,</hi> Esq; being seiz'd in Fee of the said Office of <hi>Marshal of the Kings-Bench</hi> several years since, made a Grant of the said Office to <hi>William Briggs,</hi> Esq; at the Rent of 1400. <hi>l. per Annum.</hi> to hold to him and his Assigns for his life.</p>
+            <p>By Vertue of this Grant, Mr. <hi>Briggs</hi> held the Office for Six Years, and about a year since made a Grant or Assignment of his Interest in the said Office, to the said <hi>George Taylor;</hi> for which Mr <hi>Taylor</hi> paid him 2000 <hi>l.</hi>and confest a Judgment of 1400 <hi>l.</hi>Penalty for se<g ref="char:EOLhyphen"/>curing the Payment of the same Rent to Mr. <hi>Briggs,</hi> as Mr. <hi>Briggs</hi> had Covenanted to pay Mr. <hi>Lenthall.</hi> and Mr. <hi>Briggs</hi> is still alive.</p>
+            <p>In <hi>Easter Term</hi> last Mr. <hi>Taylor</hi> war admitted into the said Office, and paid his Rent duly to Mr. <hi>Briggs</hi> for Four Months, but Mr. <hi>Boulter,</hi> and others, claiming a Ri<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ht to the said Rent, under the said Mr. <hi>Lenthal,</hi>) forbid Payment of the same to Mr. <hi>Briggs;</hi> and thereupon Mr. <hi>Taylor</hi> stopt payment thereof to Mr. <hi>Briggs;</hi> and sometime after agreed to atturn Tenant to Mr. <hi>Boulter</hi> (upon Mr. <hi>Boulters</hi> promise to Indempnifie him against Mr. <hi>Briggs,</hi>) and paid Mr. <hi>Boulter</hi> 100 <hi>l.</hi> in part of the said Rent.</p>
+            <p>Mr. <hi>Briggs</hi> having notice of Mr. <hi>Taylors</hi> attorning and paying Rent to Mr. <hi>Boulter,</hi> about a Fortningt since took Mr. <hi>Taylor</hi> in Exe<g ref="char:EOLhyphen"/>cution upon the 1400 <hi>l.</hi> Judgment; Notwithstanding Mr. <hi>Taylor</hi> always was, and still it, ready to pay his Rent, being Indempni<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed.</p>
+            <p>After all this (as is supposed, by Mr. <hi>Boulters</hi> means) a clause was presented to the Committee of the Right Honourable House of Lords (to whom the said Bill was committed) for making void all Grants heretofore made by the said Mr. <hi>Lenthall</hi> of the said Office, which clause was received by the said Committee, Notwithstanding it is admitted that Mr. <hi>Lenthall</hi> had a Right to make the aforesaid Grant to Mr. <hi>Briggs,</hi> under which Mr. <hi>Taylor</hi> claims.</p>
+            <p>This Clause was presented at the Close of the Commttee, and received without any Notice to Mr. <hi>Taylor,</hi> and he never was heard against it, and if the Clause should pass, Mr. <hi>Taylor</hi> will thereby be divested of his Freehold in the said Office, (without being heard) and lose his 2000 <hi>l</hi> Purchase Mony. Of which (with submission) there is no President in Parliamentary Proceedings, <hi>Wherefore it is humbly hoped, that this Honorable House wilt be pleased to reject the said Clause, or admit Mr.</hi> Taylor <hi>to be heard by his Council against the same.</hi>
+            </p>
+            <p>
+               <hi>The Clause is as follows;</hi>
+            </p>
+            <p>
+               <q>And be it further Enacted by the Authority aforesaid, that all and every Depu<g ref="char:EOLhyphen"/>tation or Deputations, Grant or Grants, at any time heretofore made or executed by <hi>William Lenthal,</hi> Esq; of the said Office of <hi>Marshal</hi> of the <hi>Marshalsea</hi> of the said Court of <hi>Kings Bench,</hi> is, and are hereby declared Void and of none Effect: And that all and every succeeding Marshal, shall from time to time, and at all times hereafter, be constituted and appointed by the said <hi>William Lenthal,</hi> his Heirs and Assigns, by and with the consent in Writing under the Hand and Seal of <hi>Edmond Boulter,</hi> Esq; his Executors, Administrators, and Assigns, until the Debt owing by the said <hi>William Lenthal</hi> to the said <hi>Edmond Boulter,</hi> Executor of Sir <hi>John Cutler,</hi> Bar. deceased, be satisfied.</q>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
